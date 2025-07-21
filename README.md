@@ -25,7 +25,15 @@ This is a **Streamlit web app** that translates text between **100+ languages** 
 * **M2M100 (facebook/m2m100\_418M)** multilingual model
 
 ---
+### Screenshots
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
 
+
+
+---
 ### 📦 Installation
 
 1. **Clone the repository**:
