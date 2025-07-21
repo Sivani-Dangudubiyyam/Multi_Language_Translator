@@ -27,9 +27,9 @@ This is a **Streamlit web app** that translates text between **100+ languages** 
 ---
 ### Screenshots
 ![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
-![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
-![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
-![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(66).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(69).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(71).png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Multi_Language_Translator/blob/main/Screenshot%20(73).png)
 
 
 
