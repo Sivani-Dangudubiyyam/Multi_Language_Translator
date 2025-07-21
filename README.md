@@ -1,6 +1,4 @@
-You're welcome! Here's a professional and clean **`README.md`** file for your **Multi-language Machine Translator** project using Streamlit and Facebook's M2M100 model:
 
----
 
 ## 🌍 Multi-language Machine Translator
 
